@@ -1,2 +1,7 @@
 # COFORBA-TAGENAP
-COFORBA (Covid Information Bandung). Tugas Akhir PWPB Semester Genap 2019/20
+Covid Information Bandung.
+Tugas Akhir PWPB Semester Genap 2019/20
+XI RPL 3
+- Ainani Tajriyan Muntaharridwan
+- Ananda Cipta Pamungkas
+- Ihsan Herdiansyah
